@@ -1,0 +1,2 @@
+When pushing JavaEclipse to GitHub, it failed due to 4 files (in Princeton/algs4-data) being more than 100MB in size, per size limit. largeEWD.txt, largeEWG.txt, leipzig1M.txxt, largeDG.txt, largeG.txt
+Also deleted UPC.xls, largeUF.txt, largeT.txt, largeW.txt
