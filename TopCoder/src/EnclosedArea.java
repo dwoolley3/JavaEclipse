@@ -1,14 +1,14 @@
-import java.util.*;
-import java.util.regex.*;
-import java.text.*;
-import java.math.*;
+//import java.util.*;
+//import java.util.regex.*;
+//import java.text.*;
+//import java.math.*;
 
 
 public class EnclosedArea
 {
 	public long construct(int E, int N)
 	{
-		
+		return 0;
 	}
 	
 	// BEGIN KAWIGIEDIT TESTING
