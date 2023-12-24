@@ -21,6 +21,7 @@ public class HashFunction2 {
 		// Demonstrate how data normally follows patterns and how
 		// a non-prime sized array can cause havoc
 
+		@SuppressWarnings("unused")
 		String[] elementsToAdd3 = { "30", "60", "90", "120", "150", "180",
 				"210", "240", "270", "300", "330", "360", "390", "420", "450",
 				"480", "510", "540", "570", "600", "989", "984", "320", "321",

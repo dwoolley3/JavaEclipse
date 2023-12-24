@@ -1,3 +1,5 @@
+package princeton;
+
 /*************************************************************************
  *  Compilation:  javac KosarajuSharirSCC.java
  *  Execution:    java KosarajuSharirSCC filename.txt

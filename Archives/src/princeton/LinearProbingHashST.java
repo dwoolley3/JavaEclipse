@@ -1,3 +1,5 @@
+package princeton;
+
 /*************************************************************************
  *  Compilation:  javac LinearProbingHashST.java
  *  Execution:    java LinearProbingHashST

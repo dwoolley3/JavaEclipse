@@ -6,7 +6,7 @@ Program Description: This class inherits from class Point.
                      of area() and perimeter(), while replacing toString().
  ***********************************************************************/
 
-package week4;
+package DeVry_CIS355A.week4;
 
 public class Square extends Point
 {

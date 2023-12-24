@@ -1,3 +1,5 @@
+package princeton;
+
 /*************************************************************************
  *  Compilation:  javac TwoSumFast.java
  *  Execution:    java TwoSumFast input.txt

@@ -1,4 +1,4 @@
-package week1.Ex4;
+package DeVry_ECET370.week1.Ex4;
 
 import java.util.Arrays;
 

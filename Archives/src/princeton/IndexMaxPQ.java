@@ -1,3 +1,5 @@
+package princeton;
+
 /*************************************************************************
  *  Compilation:  javac IndexMaxPQ.java
  *  Execution:    java IndexMaxPQ

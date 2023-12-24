@@ -1,3 +1,5 @@
+package princeton;
+
 /*************************************************************************
  *  Compilation:  javac LRS.java
  *  Execution:    java LRS < file.txt

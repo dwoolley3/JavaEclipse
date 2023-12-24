@@ -1,3 +1,5 @@
+package princeton;
+
 /***********************************************************************************
  *  Compilation: javac LSD.java
  *  Execution:   java LSD < input.txt

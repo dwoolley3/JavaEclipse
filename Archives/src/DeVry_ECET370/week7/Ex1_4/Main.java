@@ -1,4 +1,4 @@
-package week7.Ex1_4;
+package DeVry_ECET370.week7.Ex1_4;
 
 /******************************
 *  Week 7 lab - exercise 1:   *

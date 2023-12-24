@@ -1,3 +1,5 @@
+package princeton;
+
 /*************************************************************************
  *  Compilation:  javac SeparateChainingHashST.java
  *  Execution:    java SeparateChainingHashST

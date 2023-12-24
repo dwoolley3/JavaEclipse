@@ -7,7 +7,7 @@ Program Description: This program will accept a radius of a circle as input,
                      and the output is displayed in a GUI message dialog box.
 ***********************************************************************/ 
 
-package week1;
+package DeVry_CIS355A.week1;
 
 import javax.swing.JOptionPane;
 

@@ -1,4 +1,4 @@
-package dougTest;
+package princeton.dougTest;
 /*************************************************************************
  *  Compilation:  javac Queue2.java
  *  Execution:    java Queue2 < input.txt

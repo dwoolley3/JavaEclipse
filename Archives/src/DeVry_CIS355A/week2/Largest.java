@@ -5,7 +5,7 @@ Program Description: This program will accept as input a series of 10 single-dig
                      numbers and prints the largest of the numbers.
 ***********************************************************************/ 
 
-package week2;
+package DeVry_CIS355A.week2;
 
 import javax.swing.JOptionPane;
 

@@ -9,7 +9,7 @@ Program Description: This program will create a tab for Index2,
                      utilizes the indexOf command, thus titled "Index2".
      We can place this JPanel into an individual tab on the JFrame.
 ***********************************************************************/
-package week6;
+package DeVry_CIS355A.week6;
 
 import java.awt.*;
 import java.awt.event.*;

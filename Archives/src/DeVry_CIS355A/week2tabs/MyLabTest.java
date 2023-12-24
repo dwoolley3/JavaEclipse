@@ -6,10 +6,11 @@ Program Description: This program will test a class.
 					 instance of a GUI object of the MyLab.java program.
 ***********************************************************************/
 
-package week2tabs;
+package DeVry_CIS355A.week2tabs;
 
 public class MyLabTest
 {
+	@SuppressWarnings("unused")
 	public static void main(String args[])
 	{
 		MyLab myLab = new MyLab();    // instantiate myLab

@@ -6,7 +6,7 @@ Program Description: This program will test the Date class.
 					 instantiate a GUI object using MyLab3.java.
  ***********************************************************************/
 
-package week3Date;
+package DeVry_CIS355A.week3Date;
 
 public class DateTest
 
@@ -16,6 +16,7 @@ public class DateTest
 
 	{ // start of main() method
 
+		@SuppressWarnings("unused")
 		MyLab3 myLab3 = new MyLab3(); // instantiate MyLab3
 
 	} // end of main() method

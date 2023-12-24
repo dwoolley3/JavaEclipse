@@ -1,3 +1,5 @@
+package princeton;
+
 /*************************************************************************
  *  Compilation:  javac OrderedArrayMaxPQ.java
  *  Execution:    java OrderedArrayMaxPQ

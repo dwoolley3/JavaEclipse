@@ -1,3 +1,5 @@
+package princeton;
+
 /*************************************************************************
  *  Compilation:  javac QuickX.java
  *  Execution:    java QuickX N

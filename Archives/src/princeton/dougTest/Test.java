@@ -1,4 +1,4 @@
-package dougTest;
+package princeton.dougTest;
 
 public class Test {
 

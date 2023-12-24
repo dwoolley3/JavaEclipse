@@ -1,4 +1,4 @@
-package dougTest;
+package princeton.dougTest;
 import java.util.*;
 
 public class Employee_Comparable_and_Iterator implements Comparable<Object> {

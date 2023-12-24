@@ -1,3 +1,5 @@
+package princeton;
+
 /*************************************************************************
  *  Compilation:  javac Bipartite.java
  *  Dependencies: Graph.java 

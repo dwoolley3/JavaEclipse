@@ -6,13 +6,14 @@ Program Description: This program will test the Cylinder class.
 					 instantiate a GUI object using MyLab3.java.
  ***********************************************************************/
 
-package week3;
+package DeVry_CIS355A.week3;
 
 
 public class CylinderTest
 
 { // start of class CylinderTest
 
+	@SuppressWarnings("unused")
 	public static void main(String args[])
 
 	{ // start of main() method

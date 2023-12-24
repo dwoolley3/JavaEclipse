@@ -1,4 +1,4 @@
-package week6.Ex3;
+package DeVry_ECET370.week6.Ex3;
 import java.util.ArrayDeque;
 import java.util.Deque;
 

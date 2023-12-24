@@ -1,3 +1,5 @@
+package princeton;
+
 /*************************************************************************
  *  Compilation:  javac TopologicalQueue.java
  *  Execution:    java TopologicalQueue V E F

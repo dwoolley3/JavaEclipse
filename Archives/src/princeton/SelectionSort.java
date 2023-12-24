@@ -1,3 +1,5 @@
+package princeton;
+
 public class SelectionSort {
 
     // This class should not be instantiated.

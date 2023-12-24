@@ -6,7 +6,7 @@ Program Description: This class is a parent class to Square and Cube.
                      This class has a method of toString() to display a
                      point, which can be overridden in child classes.
  ***********************************************************************/
-package week4;
+package DeVry_CIS355A.week4;
 
 public class Point
 {

@@ -4,7 +4,7 @@ Programmer's Name: Doug Woolley
 Program Description: GUI version of PracticeArithmeticGUI.java
 ***********************************************************************/ 
 
-package week1;
+package DeVry_CIS355A.week1;
 
 //class to definite Arithmetic Operation
 public class PracticeArithmeticOperatorsGUI extends javax.swing.JFrame {

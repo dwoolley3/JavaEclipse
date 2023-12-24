@@ -12,7 +12,7 @@ Program Description: This class will build the GUI and provide the event
                      within the containers.
                      Program has 2 tabs: 1) Guess Game, 2) Text File IO
  ***********************************************************************/
-package week5;
+package DeVry_CIS355A.week5;
 
 import javax.swing.*; // for Swing
 import java.awt.*;    // for awt

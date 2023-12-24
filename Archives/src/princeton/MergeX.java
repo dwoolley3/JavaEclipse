@@ -1,3 +1,5 @@
+package princeton;
+
 public class MergeX {
     private static final int CUTOFF = 7;  // cutoff to insertion sort
 

@@ -1,7 +1,7 @@
-package week7.Project_Final.edu.devry.MekWeyWoo.GUI;
+package DeVry_ECET370.week7.Project_Final.edu.devry.MekWeyWoo.GUI;
 
-import week7.Project_Final.edu.devry.MekWeyWoo.Data.*;
-import week7.Project_Final.edu.devry.MekWeyWoo.SocialNetworkApp;
+import DeVry_ECET370.week7.Project_Final.edu.devry.MekWeyWoo.Data.*;
+import DeVry_ECET370.week7.Project_Final.edu.devry.MekWeyWoo.SocialNetworkApp;
 
 import javax.swing.*;
 import javax.swing.border.*;

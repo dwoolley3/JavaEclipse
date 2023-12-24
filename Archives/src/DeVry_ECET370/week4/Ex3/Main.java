@@ -1,4 +1,4 @@
-package week4.Ex3;
+package DeVry_ECET370.week4.Ex3;
 
 /************************************************
 *  Week 4 lab - exercise 3: Recursion -         *

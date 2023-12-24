@@ -6,7 +6,7 @@ Program Description: This program will display three lines. Each new line
                      Further, Escape sequences are used for a tab and double quotes.
 ***********************************************************************/ 
 
-package week1;
+package DeVry_CIS355A.week1;
 
 public class ShowEscapeSequences {
 

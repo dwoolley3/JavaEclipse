@@ -1,4 +1,4 @@
-package week3.Ex6;
+package DeVry_ECET370.week3.Ex6;
 
 import java.util.NoSuchElementException;
 

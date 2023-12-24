@@ -1,3 +1,5 @@
+package princeton;
+
 /*************************************************************************
  *  Compilation:  javac GraphClient.java
  *  Execution:    java GraphClient graph.txt

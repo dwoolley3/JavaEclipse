@@ -1,3 +1,5 @@
+package princeton;
+
 /*************************************************************************
  *  Compilation:  javac DepthFirstPaths.java
  *  Execution:    java DepthFirstPaths G s

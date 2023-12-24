@@ -1,3 +1,5 @@
+package princeton;
+
 /*************************************************************************
  *  Compilation:  javac TrieST.java
  *  Execution:    java TrieST < words.txt

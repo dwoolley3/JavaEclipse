@@ -1,3 +1,5 @@
+package princeton;
+
 /***********************************************************************************
  *  Compilation: javac MSD.java
  *  Execution:   java MSD < input.txt

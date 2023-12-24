@@ -6,7 +6,7 @@ Program Description: This program will test several classes.
 					 instance of a GUI object of the MyLab.java program.
 ***********************************************************************/
 
-package week6;
+package DeVry_CIS355A.week6;
 
 public class MyLabTest
 {

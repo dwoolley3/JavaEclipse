@@ -1,3 +1,5 @@
+package princeton;
+
 /*************************************************************************
  *  Compilation:  javac BellmanFordSP.java
  *  Execution:    java BellmanFordSP filename.txt s

@@ -1,3 +1,5 @@
+package princeton;
+
 /****************************************************************************
  *  Compilation:  javac QuickFindUF.java
  *  Execution:  java QuickFindUF < input.txt

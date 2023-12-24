@@ -13,7 +13,7 @@ Program Description: Landscape Engineering Calculator (LEC):
 	Program has 8 tabs:  1) General, 2) Options, 3) Customers, 
 	4) Contractors, 5) Pools, 6) Hot Tubs, 7) Temp Calc, 8) Length Calc.
  ***********************************************************************/
-package week7;
+package DeVry_CIS355A.week7;
 
 import javax.swing.*; // for Swing
 import java.awt.*;    // for awt

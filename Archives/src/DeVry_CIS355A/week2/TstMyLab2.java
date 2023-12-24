@@ -1,4 +1,4 @@
-package week2;
+package DeVry_CIS355A.week2;
 
 //File 4
 
@@ -14,6 +14,7 @@ public class TstMyLab2
 
 	{ // start of main() method
 
+		@SuppressWarnings("unused")
 		MyLab2 myLab2 = new MyLab2(); // instantiate MyLab2
 
 	} // end of main() method

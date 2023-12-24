@@ -1,3 +1,5 @@
+package princeton;
+
 /*************************************************************************
  *  Compilation:  javac MergeBU.java
  *  Execution:    java MergeBU < input.txt

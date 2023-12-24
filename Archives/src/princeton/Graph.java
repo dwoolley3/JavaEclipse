@@ -1,3 +1,4 @@
+package princeton;
 
 /*************************************************************************
  *  Compilation:  javac Graph.java        

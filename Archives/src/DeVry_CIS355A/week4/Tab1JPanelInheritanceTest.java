@@ -8,7 +8,7 @@ Program Description: This program will create a tab for an Inheritance Test.
 					 then instantiate objects for Point, Square, and Cube.
 					 Output of the objects methods are shown in a text area.
  ***********************************************************************/
-package week4;
+package DeVry_CIS355A.week4;
 
 import javax.swing.*;    // for Swing
 

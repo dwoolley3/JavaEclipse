@@ -7,7 +7,7 @@ Program Description: This program will accept two integers as input, via
 					 the two numbers. Results are displayed to the system
 					 console and in a GUI message dialog box.
 ***********************************************************************/ 
-package week1;
+package DeVry_CIS355A.week1;
 
 import javax.swing.JOptionPane;
 import javax.swing.JTextArea;  //Use JTextArea to properly display tab in GUI dialog

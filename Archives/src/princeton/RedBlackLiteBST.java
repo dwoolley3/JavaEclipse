@@ -1,3 +1,5 @@
+package princeton;
+
 /*************************************************************************
  *  Compilation:  javac RedBlackLiteBST.java
  *  Execution:    java RedBlackLiteBST < input.txt

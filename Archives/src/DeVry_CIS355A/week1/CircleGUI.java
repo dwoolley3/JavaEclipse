@@ -1,4 +1,4 @@
-package week1;
+package DeVry_CIS355A.week1;
 
 /***********************************************************************
 Program Name: CircleGUI.java

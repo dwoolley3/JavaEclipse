@@ -1,3 +1,5 @@
+package princeton;
+
 public class Heap {
 
     // This class should not be instantiated.

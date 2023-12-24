@@ -1,3 +1,5 @@
+package princeton;
+
 /*************************************************************************
  *  Compilation:  javac PerfectBalance.java
  *  Execution:    java PerfectBalance < input.txt

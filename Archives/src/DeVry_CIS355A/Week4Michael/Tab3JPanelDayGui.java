@@ -10,7 +10,7 @@ Program Description: This program will create a tab for a Day GUI.
      Thus, we can place this JPanel into an individual tab on the JFrame.
  ***********************************************************************/
 
-package Week4Michael;
+package DeVry_CIS355A.Week4Michael;
 
 //import javax.swing.JButton;
 //import javax.swing.JFrame;

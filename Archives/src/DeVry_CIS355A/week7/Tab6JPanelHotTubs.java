@@ -11,7 +11,7 @@ Program Description: This program will compute a tub's volume given
  	value as entered in the length text box (since shape is round).
  ***********************************************************************/
 
-package week7;
+package DeVry_CIS355A.week7;
 
 import javax.swing.*;    // for Swing
 import java.awt.*;       // for awt

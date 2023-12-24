@@ -5,7 +5,7 @@ Program Description: This program will determine if the input five-digit integer
                      is a palindrome (same number written forward and backward)
 ***********************************************************************/ 
 
-package week2;
+package DeVry_CIS355A.week2;
 
 import javax.swing.JOptionPane;
 
@@ -62,6 +62,7 @@ public class Palindrome {
 		return (number == reverse);
 	}
 	
+	@SuppressWarnings("unused")
 	private static Boolean check2(int number){
 		//This method determines whether the 5-digit input is a palindrome, 
 		//using string approach

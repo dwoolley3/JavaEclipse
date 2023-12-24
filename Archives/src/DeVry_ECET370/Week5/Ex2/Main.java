@@ -1,4 +1,4 @@
-package Week5.Ex2;
+package DeVry_ECET370.Week5.Ex2;
 
 /*******************************************
 *  Week 5 lab - exercise 1 and exercise 2: *
@@ -7,7 +7,7 @@ package Week5.Ex2;
 
 import java.util.*;
 
-import Week5.Ex1.ArrayList;
+import DeVry_ECET370.Week5.Ex1.ArrayList;
 
 /**
  * Class to test sequential search, sorted search, and binary search algorithms

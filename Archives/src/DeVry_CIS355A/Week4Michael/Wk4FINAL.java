@@ -1,4 +1,4 @@
-package Week4Michael;
+package DeVry_CIS355A.Week4Michael;
 
 /****************************************************************************
  Program Name: TabbedPane of DayGui and OfficeAreaCalculator programs

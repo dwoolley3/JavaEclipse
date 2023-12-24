@@ -5,6 +5,7 @@ import java.awt.Graphics;
 import java.awt.*;
 import java.util.Date;
 
+@SuppressWarnings("deprecation")
 public class WelcomeApplet extends java.applet.Applet
 {
 	private static final long serialVersionUID = 1L;

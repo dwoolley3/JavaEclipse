@@ -1,3 +1,5 @@
+package princeton;
+
 /*************************************************************************
  *  Compilation:  javac FordFulkerson.java
  *  Execution:    java FordFulkerson V E

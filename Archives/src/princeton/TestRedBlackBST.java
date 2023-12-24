@@ -1,3 +1,5 @@
+package princeton;
+
 /*************************************************************************
  *  Compilation:  javac TestRedBlackBST.java
  *  Execution:    java -ea TestRedBlackBST 10

@@ -4,7 +4,7 @@ Programmer's Name:   Doug Woolley
 Program Description: 
  ***********************************************************************/
 
-package week4;
+package DeVry_CIS355A.week4;
 
 import java.awt.*;
 import java.awt.event.*;

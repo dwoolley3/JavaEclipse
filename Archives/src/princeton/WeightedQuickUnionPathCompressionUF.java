@@ -1,3 +1,5 @@
+package princeton;
+
 /****************************************************************************
  *  Compilation:  javac WeightedQuickUnionPathCompressionUF.java
  *  Execution:  java WeightedQuickUnionPathCompressionUF < input.txt

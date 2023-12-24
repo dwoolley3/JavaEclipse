@@ -1,3 +1,5 @@
+package princeton;
+
 /***************************************************************
  *  Compilation:  java KMPplus.java
  *  Execution:    java KMPplus pattern text

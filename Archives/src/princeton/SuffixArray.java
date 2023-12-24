@@ -1,3 +1,5 @@
+package princeton;
+
 /*************************************************************************
  *  Compilation:  javac SuffixArray.java
  *  Execution:  java SuffixArray < input.txt
@@ -52,6 +54,7 @@ import java.util.Arrays;
  *  For additional documentation, see <a href="http://algs4.cs.princeton.edu/63suffix">Section 6.3</a> of
  *  <i>Algorithms, 4th Edition</i> by Robert Sedgewick and Kevin Wayne.
  */
+
 public class SuffixArray {
     private Suffix[] suffixes;
 

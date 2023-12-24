@@ -9,7 +9,7 @@ Program Description: This program will test the Cylinder class.
 					 compute the volume of the cylinder. 
  ***********************************************************************/
 
-package week3;
+package DeVry_CIS355A.week3;
 
 import javax.swing.*; //put this in for Swing
 

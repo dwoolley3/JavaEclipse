@@ -1,4 +1,4 @@
-package week1.Ex3;
+package DeVry_ECET370.week1.Ex3;
 
 
 /***********************************

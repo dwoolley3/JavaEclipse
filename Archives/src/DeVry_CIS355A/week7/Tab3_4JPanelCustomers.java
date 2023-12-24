@@ -14,7 +14,7 @@ Program Description: This program will function as Tabs 3 & 4 for
  	"Refresh" button will display the contents of the file to the screen.
  ***********************************************************************/
 
-package week7;
+package DeVry_CIS355A.week7;
 
 import javax.swing.*;    // for Swing
 import java.awt.*;       // for awt

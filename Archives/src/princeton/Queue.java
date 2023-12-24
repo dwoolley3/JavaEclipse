@@ -1,3 +1,5 @@
+package princeton;
+
 /*************************************************************************
  *  Compilation:  javac Queue2.java
  *  Execution:    java Queue2 < input.txt

@@ -1,4 +1,4 @@
-package Week5File;
+package DeVry_CIS355A.Week5File;
 
 //written by Bohdan Stryk - Senior Professor - Devry University - Phoenix, AZ
 //email: bstryk@phx.devry.edu

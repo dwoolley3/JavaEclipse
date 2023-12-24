@@ -1,3 +1,5 @@
+package princeton;
+
 /*************************************************************************
  *  Compilation:  javac Selection.java
  *  Execution:    java  Selection < input.txt

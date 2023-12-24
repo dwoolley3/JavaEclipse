@@ -12,7 +12,7 @@ Program Description: This program will create a tab for a Guess Game,
                      then the textbox turns red, otherwise it turns blue.
      We can place this JPanel into an individual tab on the JFrame.
  ***********************************************************************/
-package week5;
+package DeVry_CIS355A.week5;
 
 import java.awt.*;
 import java.awt.event.*;

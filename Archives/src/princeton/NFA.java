@@ -1,3 +1,5 @@
+package princeton;
+
 /*************************************************************************
  *  Compilation:  javac NFA.java
  *  Execution:    java NFA regexp text

@@ -11,7 +11,7 @@ Program Description: This program will convert a temperature from
  	is entered, then zero is used instead.
  ***********************************************************************/
 
-package week7;
+package DeVry_CIS355A.week7;
 
 import javax.swing.*;    // for Swing
 import java.awt.*;       // for awt

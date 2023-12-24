@@ -1,3 +1,5 @@
+package princeton;
+
 /*************************************************************************
  *  Compilation:  javac NonrecursiveBST.java
  *  Execution:    java  NonrecursiveBST < input.txt

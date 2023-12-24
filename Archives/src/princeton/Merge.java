@@ -1,3 +1,5 @@
+package princeton;
+
 /*************************************************************************
  *  Compilation:  javac Merge.java
  *  Execution:    java Merge < input.txt

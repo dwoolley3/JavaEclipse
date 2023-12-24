@@ -10,9 +10,9 @@ Program Description: This class contains two double-precision instance
                      given the radius and height.
  ***********************************************************************/
 
-package week3;
+package DeVry_CIS355A.week3;
 
-import javax.swing.JTextField;
+//import javax.swing.JTextField;
 
 public class Cylinder
 

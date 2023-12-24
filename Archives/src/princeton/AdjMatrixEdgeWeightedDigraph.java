@@ -1,3 +1,5 @@
+package princeton;
+
 /*************************************************************************
  *  Compilation:  javac AdjMatrixEdgeWeightedDigraph.java
  *  Execution:    java AdjMatrixEdgeWeightedDigraph V E

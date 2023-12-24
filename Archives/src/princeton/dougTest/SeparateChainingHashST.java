@@ -1,4 +1,4 @@
-package dougTest;
+package princeton.dougTest;
 /*************************************************************************
  *  Compilation:  javac SeparateChainingHashST.java
  *  Execution:    java SeparateChainingHashST

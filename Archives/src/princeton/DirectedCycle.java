@@ -1,3 +1,5 @@
+package princeton;
+
 /*************************************************************************
  *  Compilation:  javac DirectedCycle.java
  *  Execution:    java DirectedCycle < input.txt

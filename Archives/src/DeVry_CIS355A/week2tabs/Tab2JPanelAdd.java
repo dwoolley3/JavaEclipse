@@ -8,7 +8,7 @@ Program Description: This program will test the MyMath class.
 					 radius and height. Next, the program calls a method to
 					 compute the volume of the cylinder. 
  ***********************************************************************/
-package week2tabs;
+package DeVry_CIS355A.week2tabs;
 
 import javax.swing.*;    // for Swing
 import java.awt.*;       // for awt
@@ -27,6 +27,7 @@ public class Tab2JPanelAdd extends JPanel { // start class
 
 	// Declare variables for controls needed to create GUI
 	private JPanel jpnl1;      // my JPanel 1 Tab 1
+	@SuppressWarnings("unused")
 	private JPanel jpnl2;      // my JPanel 2 Tab 2
 
 	// controls for jpnl1 in Tab 1

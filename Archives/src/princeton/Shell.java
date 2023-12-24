@@ -1,3 +1,5 @@
+package princeton;
+
 /*************************************************************************
  *  Compilation:  javac Shell.java
  *  Execution:    java Shell < input.txt

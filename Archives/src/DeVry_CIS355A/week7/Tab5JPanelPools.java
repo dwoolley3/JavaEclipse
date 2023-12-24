@@ -7,7 +7,7 @@ Program Description: This program will compute a pool's volume given
  	missing data or have invalid data then an error message is displayed. 	
  ***********************************************************************/
 
-package week7;
+package DeVry_CIS355A.week7;
 
 import javax.swing.*;    // for Swing
 import java.awt.*;       // for awt

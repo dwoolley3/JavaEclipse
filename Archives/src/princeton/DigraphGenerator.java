@@ -1,3 +1,5 @@
+package princeton;
+
 /*************************************************************************
  *  Compilation:  javac DigraphGenerator.java
  *  Execution:    java DigraphGenerator V E

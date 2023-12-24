@@ -9,7 +9,7 @@ Program Description: This program is called by both tab 3 and 4,
  	chosen file. A user could also choose to Delete the file, if desired.
  	Upon closing this "Add" window, the main tab still appears.
  ***********************************************************************/
-package week7;
+package DeVry_CIS355A.week7;
 
 import java.awt.*;
 import java.awt.event.*;

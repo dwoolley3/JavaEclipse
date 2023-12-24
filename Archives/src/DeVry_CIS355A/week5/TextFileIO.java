@@ -1,4 +1,4 @@
-package week5;
+package DeVry_CIS355A.week5;
 
 import java.io.*;
 import javax.swing.*;

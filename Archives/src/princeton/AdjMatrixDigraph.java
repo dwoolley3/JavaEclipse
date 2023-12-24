@@ -1,3 +1,4 @@
+package princeton;
 /*************************************************************************
  *  Compilation:  javac AdjMatrixDigraph.java
  *  Execution:    java AdjMatrixDigraph V E

@@ -1,4 +1,4 @@
-package week1.Ex2;
+package DeVry_ECET370.week1.Ex2;
 
 /*********************************
 *  Week 1 lab - exercise 2:      *

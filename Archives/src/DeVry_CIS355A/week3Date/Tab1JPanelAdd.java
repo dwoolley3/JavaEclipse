@@ -10,15 +10,16 @@ Program Description: This program will test the Date class.
 					 date.
  ***********************************************************************/
 
-package week3Date;
+package DeVry_CIS355A.week3Date;
 
 import javax.swing.*; //put this in for Swing
 
-import week3.Cylinder;
+import DeVry_CIS355A.week3.Cylinder;
 
 import java.awt.*; //put this in for awt
 import java.awt.event.*; //put this in for events
 
+@SuppressWarnings("unused")
 public class Tab1JPanelAdd extends JPanel
 
 { // start class

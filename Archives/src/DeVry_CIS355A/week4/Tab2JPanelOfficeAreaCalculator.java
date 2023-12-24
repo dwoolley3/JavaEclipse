@@ -9,7 +9,7 @@ Program Description: This program will create a tab for an Office Area
 	 This program was changed from extending JFrame to extending JPanel.
      Thus, we can place this JPanel into an individual tab on the JFrame.
  ***********************************************************************/
-package week4;
+package DeVry_CIS355A.week4;
 
 import java.awt.*;
 import java.awt.event.*;

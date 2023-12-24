@@ -6,7 +6,7 @@ Program Description: This class retrieves two numbers from the GUI in
                      they can then be added and displayed in the GUI in
                      a third textfield.
  ***********************************************************************/
-package week2tabs;
+package DeVry_CIS355A.week2tabs;
 
 import javax.swing.JTextField;
 

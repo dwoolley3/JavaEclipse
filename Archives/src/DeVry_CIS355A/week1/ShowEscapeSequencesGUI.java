@@ -4,7 +4,7 @@ Programmer's Name: Doug Woolley
 Program Description: GUI version of ShowEscapeSequence.java
 ***********************************************************************/ 
 
-package week1;
+package DeVry_CIS355A.week1;
 
 import javax.swing.*;
 

@@ -1,3 +1,5 @@
+package princeton;
+
 /*************************************************************************
  *  Compilation:  javac RandomizedBST.java
  *  Execution:    java RandomizedBST

@@ -1,4 +1,4 @@
-package dougTest;
+package princeton.dougTest;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;

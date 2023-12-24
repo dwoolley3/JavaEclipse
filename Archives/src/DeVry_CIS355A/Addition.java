@@ -2,6 +2,7 @@
 //Simple addition program that uses dialog boxes for user input and output
 
 //Java extension packages
+package DeVry_CIS355A;
 import javax.swing.JOptionPane; 
 
 public class Addition {

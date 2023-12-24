@@ -1,4 +1,4 @@
-package week6.Ex5;
+package DeVry_ECET370.week6.Ex5;
 import java.util.*;
 
 /**************************************

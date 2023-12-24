@@ -1,4 +1,4 @@
-package week7.Project;
+package DeVry_ECET370.week7.Project;
 
 import java.io.Serializable;
 import java.util.HashMap;

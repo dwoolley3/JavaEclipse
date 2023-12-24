@@ -6,7 +6,7 @@ Program Description: This class retrieves two numbers from the GUI in
                      they can then be added and displayed in the GUI in
                      a third textfield.
  ***********************************************************************/
-package week4;
+package DeVry_CIS355A.week4;
 
 import javax.swing.JTextField;
 

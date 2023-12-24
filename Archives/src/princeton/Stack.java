@@ -1,3 +1,5 @@
+package princeton;
+
 /*************************************************************************
  *  Compilation:  javac Stack.java
  *  Execution:    java Stack < input.txt

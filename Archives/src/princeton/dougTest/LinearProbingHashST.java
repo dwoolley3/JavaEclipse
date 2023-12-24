@@ -1,4 +1,4 @@
-package dougTest;
+package princeton.dougTest;
 /*************************************************************************
  *  Compilation:  javac LinearProbingHashST.java
  *  Execution:    java LinearProbingHashST

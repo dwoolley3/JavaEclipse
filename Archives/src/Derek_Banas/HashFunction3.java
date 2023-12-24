@@ -245,6 +245,7 @@ class WordList {
 
 	public static void main(String[] args) {
 
+		@SuppressWarnings("resource")
 		Scanner input = new Scanner(System.in);
 
 		// Make a 11 item array that will hold words

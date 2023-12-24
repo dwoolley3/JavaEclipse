@@ -1,3 +1,5 @@
+package princeton;
+
 /*************************************************************************
  *  Compilation:  javac CC.java
  *  Execution:    java CC filename.txt

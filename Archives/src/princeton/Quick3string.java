@@ -1,3 +1,5 @@
+package princeton;
+
 /***********************************************************************************
  *  Compilation: javac Quick3string.java
  *  Execution:   java Quick3string < input.txt

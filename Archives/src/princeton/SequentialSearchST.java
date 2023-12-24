@@ -1,3 +1,5 @@
+package princeton;
+
 /*************************************************************************
  *  Compilation:  javac SequentialSearchST.java
  *  Execution:    java SequentialSearchST

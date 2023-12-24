@@ -1,4 +1,4 @@
-package week7.Project_Final.edu.devry.MekWeyWoo.Data;
+package DeVry_ECET370.week7.Project_Final.edu.devry.MekWeyWoo.Data;
 
 import java.io.Serializable;
 import java.util.HashMap;

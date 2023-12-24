@@ -11,7 +11,7 @@ Program Description: This class will build the GUI and provide the event
                      Layout managers are used to place the controls 
                      within the containers.
  ***********************************************************************/
-package week2tabs;
+package DeVry_CIS355A.week2tabs;
 
 import javax.swing.*; // for Swing
 import java.awt.*;    // for awt
@@ -22,6 +22,7 @@ public class MyLab extends JFrame {
 
 	static final long serialVersionUID = 12345;  // assign any number
 	private Toolkit tkMy;           // has info about the environment
+	@SuppressWarnings("unused")
 	private Dimension dimJfrmSize;  // has info about the screen size
 	private JFrame myJfrm1;         // my JFrame
 	private JTabbedPane myJtp1;     // my JTabbedPane

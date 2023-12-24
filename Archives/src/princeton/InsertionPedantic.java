@@ -1,3 +1,5 @@
+package princeton;
+
 /*************************************************************************
  *  Compilation:  javac InsertionPedantic.java
  *  Execution:    java InsertionPedantic < input.txt

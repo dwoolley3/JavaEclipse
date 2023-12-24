@@ -1,3 +1,5 @@
+package princeton;
+
 /*************************************************************************
  *  Compilation:  javac NonrecursiveDFS.java
  *  Execution:    java NonrecursiveDFS graph.txt s

@@ -1,4 +1,4 @@
-package week4.Ex1_Factorial;
+package DeVry_ECET370.week4.Ex1_Factorial;
 
 /************************************************
 *  Week 4 lab - exercise 1:                     *

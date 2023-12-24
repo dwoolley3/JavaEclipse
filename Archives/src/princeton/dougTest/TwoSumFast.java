@@ -1,4 +1,4 @@
-package dougTest;
+package princeton.dougTest;
 /*************************************************************************
  *  A program with N log N running time. Read in N integers
  *  and counts the number of pairs that sum to exactly 0.

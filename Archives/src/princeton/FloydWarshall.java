@@ -1,3 +1,5 @@
+package princeton;
+
 /*************************************************************************
  * Compilation:  javac FloydWarshall.java
  * Execution:  java FloydWarshall V E

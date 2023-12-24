@@ -1,3 +1,5 @@
+package princeton;
+
 /*************************************************************************
  *  Compilation:  javac GREP.java
  *  Execution:    java GREP regexp < input.txt

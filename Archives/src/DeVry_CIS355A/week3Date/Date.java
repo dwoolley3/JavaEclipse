@@ -9,10 +9,11 @@ Program Description: This class contains three integer instance
                      increments the date by 1 day.
  ***********************************************************************/
 
-package week3Date;
+package DeVry_CIS355A.week3Date;
 
 import javax.swing.JTextField;
 
+@SuppressWarnings("unused")
 public class Date
 
 { // start class

@@ -1,3 +1,4 @@
+package princeton;
 
 public class FixedCapacityStack<Item> {
     private Item[] a;  // holds the items

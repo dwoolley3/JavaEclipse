@@ -1,3 +1,5 @@
+package princeton;
+
 /*************************************************************************
  *  Compilation:  javac BreadthFirstDirectedPaths.java
  *  Execution:    java BreadthFirstDirectedPaths V E

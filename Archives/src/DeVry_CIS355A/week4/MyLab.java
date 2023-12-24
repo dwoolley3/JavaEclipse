@@ -13,7 +13,7 @@ Program Description: This class will build the GUI and provide the event
                      Program has 3 tabs: 1) Inheritance Test,
                      2) Day GUI, 3) Office Area Calculator.
  ***********************************************************************/
-package week4;
+package DeVry_CIS355A.week4;
 
 import javax.swing.*; // for Swing
 

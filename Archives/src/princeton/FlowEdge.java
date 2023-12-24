@@ -1,3 +1,5 @@
+package princeton;
+
 /*************************************************************************
  *  Compilation:  javac FlowEdge.java
  *  Execution:    java FlowEdge

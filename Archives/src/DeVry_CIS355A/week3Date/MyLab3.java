@@ -6,7 +6,7 @@ Program Description: This class will display the GUI and do input and
  					 separate class Date.java.
  ***********************************************************************/
 
-package week3Date;
+package DeVry_CIS355A.week3Date;
 
 import javax.swing.*; //put this in for Swing
 import java.awt.*; //put this in for awt

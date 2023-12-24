@@ -1,3 +1,5 @@
+package princeton;
+
 /*************************************************************************
  *  Compilation:  javac DepthFirstSearch.java
  *  Execution:    java DepthFirstSearch filename.txt s

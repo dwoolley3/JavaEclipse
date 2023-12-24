@@ -1,4 +1,4 @@
-package week4.Ex1_Sorting_Algorithms;
+package DeVry_ECET370.week4.Ex1_Sorting_Algorithms;
 
 /********************************************
 *  Week 4 lab - exercise 1 and exercise 4:  *

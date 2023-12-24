@@ -1,3 +1,5 @@
+package princeton;
+
 /*************************************************************************
  *  Compilation:  javac LongestCommonSubstring.java
  *  Execution:    java  LongestCommonSubstring file1.txt file2.txt

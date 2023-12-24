@@ -1,3 +1,5 @@
+package princeton;
+
 /*************************************************************************
  *  Compilation:  javac Insertion.java
  *  Execution:    java Insertion < input.txt

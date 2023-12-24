@@ -9,7 +9,7 @@ Program Description: This program will declare three ArrayList objects and
  	then calls method display() to display the results of all three lists.
  ***********************************************************************/
 
-package week6;
+package DeVry_CIS355A.week6;
 
 import javax.swing.*;    // for Swing
 import java.awt.*;       // for awt

@@ -18,7 +18,7 @@ Program Description: This program will convert lengths from a given
 	a zero value will be used for that field instead.
  ***********************************************************************/
 
-package week7;
+package DeVry_CIS355A.week7;
 
 import javax.swing.*;    // for Swing
 import java.awt.*;       // for awt

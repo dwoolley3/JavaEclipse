@@ -117,6 +117,7 @@ public class BigONotation {
 	public void linearSearchForValue(int value) {
 
 		boolean valueInArray = false;
+		@SuppressWarnings("unused")
 		String indexsWithValue = "";
 
 		startTime = System.currentTimeMillis();

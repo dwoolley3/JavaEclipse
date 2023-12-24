@@ -5,7 +5,7 @@ Program Description: This program will display a diamond of asterisks
 					 having a given number of rows.
 ***********************************************************************/
 
-package week2;
+package DeVry_CIS355A.week2;
 
 import javax.swing.JOptionPane;
 

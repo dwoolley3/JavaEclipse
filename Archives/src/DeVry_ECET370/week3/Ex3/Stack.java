@@ -1,4 +1,4 @@
-package week3.Ex3;
+package DeVry_ECET370.week3.Ex3;
 
 import java.util.EmptyStackException;
 

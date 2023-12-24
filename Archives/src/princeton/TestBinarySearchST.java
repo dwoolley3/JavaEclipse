@@ -1,3 +1,5 @@
+package princeton;
+
 /*************************************************************************
  *  Compilation:  javac TestBinarySearchST.java
  *  Execution:    java -ea TestBinarySearchST

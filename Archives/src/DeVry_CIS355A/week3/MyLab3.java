@@ -5,7 +5,7 @@ Program Description: This class will display the GUI and do input and
  					 output processing using the methods in the
  					 separate class Cylinder.java.
  ***********************************************************************/
-package week3;
+package DeVry_CIS355A.week3;
 
 import javax.swing.*; //put this in for Swing
 import java.awt.*; //put this in for awt

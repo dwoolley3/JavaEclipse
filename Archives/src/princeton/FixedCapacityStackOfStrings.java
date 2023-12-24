@@ -1,3 +1,5 @@
+package princeton;
+
 import java.util.Iterator;  //enables reference to Java's Iterator interface
 
 //"implements Iterable<>" promises to provide an iterator() method

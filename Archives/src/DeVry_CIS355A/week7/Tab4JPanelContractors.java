@@ -5,7 +5,7 @@
   	tab 4 are combined in Tab3_4JPanelCustomers.java.  	
  ***********************************************************************/
 
- package week7;
+ package DeVry_CIS355A.week7;
 
  import javax.swing.*;    // for Swing
  import java.awt.*;       // for awt

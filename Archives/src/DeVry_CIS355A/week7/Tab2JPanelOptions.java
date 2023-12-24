@@ -7,7 +7,7 @@ Program Description: This program will create a tab for Options,
 	button "Set New Name".
     We can place this JPanel into an individual tab on the JFrame.
 ***********************************************************************/
-package week7;
+package DeVry_CIS355A.week7;
 
 import java.awt.*;
 import java.awt.event.*;

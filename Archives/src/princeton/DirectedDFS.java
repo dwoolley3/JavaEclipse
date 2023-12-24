@@ -1,3 +1,5 @@
+package princeton;
+
 /*************************************************************************
  *  Compilation:  javac DirectedDFS.java
  *  Execution:    java DirectedDFS V E

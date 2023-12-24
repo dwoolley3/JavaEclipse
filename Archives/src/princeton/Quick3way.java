@@ -1,3 +1,5 @@
+package princeton;
+
 /*************************************************************************
  *  Compilation:  javac Quick3way.java
  *  Execution:    java Quick3way < input.txt

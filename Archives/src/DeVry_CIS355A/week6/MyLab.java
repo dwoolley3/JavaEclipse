@@ -12,7 +12,7 @@ Program Description: This class will build the GUI and provide the event
                      within the containers.  Program has 3 tabs: 
                      1) Index, 2) Index2, 3) Three Array Lists
  ***********************************************************************/
-package week6;
+package DeVry_CIS355A.week6;
 
 import javax.swing.*; // for Swing
 import java.awt.*;    // for awt

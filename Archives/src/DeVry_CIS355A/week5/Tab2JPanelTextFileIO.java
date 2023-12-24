@@ -14,7 +14,7 @@ Program Description: This program will create a tab for a Text File IO.
        5) Display file's contents (even numbers and odd numbers) to the screen.
  ***********************************************************************/
 
-package week5;
+package DeVry_CIS355A.week5;
 
 
 import javax.swing.*;    // for Swing

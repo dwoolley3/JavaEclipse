@@ -1,4 +1,4 @@
-package week2;
+package DeVry_CIS355A.week2;
 
 //File 1
 

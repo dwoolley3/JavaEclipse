@@ -1,6 +1,6 @@
-package week7.Project_Final.edu.devry.MekWeyWoo.GUI;
+package DeVry_ECET370.week7.Project_Final.edu.devry.MekWeyWoo.GUI;
 
-import week7.Project_Final.edu.devry.MekWeyWoo.Data.SocialNetwork;
+import DeVry_ECET370.week7.Project_Final.edu.devry.MekWeyWoo.Data.SocialNetwork;
 
 import javax.swing.*;
 import java.awt.*;

@@ -1,4 +1,4 @@
-package dougTest;
+package princeton.dougTest;
 import java.util.*; //Scanner;
 import java.io.*;
 

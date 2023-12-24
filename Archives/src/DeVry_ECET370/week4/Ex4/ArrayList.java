@@ -1,4 +1,4 @@
-package week4.Ex4;
+package DeVry_ECET370.week4.Ex4;
 
 /********************************************
 *  Week 4 lab - exercise 1 and exercise 4:  *

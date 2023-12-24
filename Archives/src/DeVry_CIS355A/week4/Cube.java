@@ -5,7 +5,7 @@ Program Description: This class inherits from class Square.
                      Cube class adds a variable of depth and methods
                      of area() and volume(), while replacing toString().
  ***********************************************************************/
-package week4;
+package DeVry_CIS355A.week4;
 
 public class Cube extends Square
 {

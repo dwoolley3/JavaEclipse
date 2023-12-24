@@ -9,7 +9,7 @@ Program Description: Landscape Engineering Calculator (LEC):
 	store/retrieve customer/contractor information.
 ***********************************************************************/
 
-package week7;
+package DeVry_CIS355A.week7;
 
 public class MyProjectTest
 {

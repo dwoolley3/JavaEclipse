@@ -1,3 +1,4 @@
+package princeton;
 
 public class WeightedQuickUnionUF2
 {

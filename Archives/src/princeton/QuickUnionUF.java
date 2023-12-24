@@ -1,3 +1,5 @@
+package princeton;
+
 /****************************************************************************
  *  Compilation:  javac QuickUnionUF.java
  *  Execution:  java QuickUnionUF < input.txt

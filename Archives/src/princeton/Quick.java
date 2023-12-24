@@ -1,3 +1,5 @@
+package princeton;
+
 /*************************************************************************
  *  Compilation:  javac QuickOther.java
  *  Execution:    java QuickOther < input.txt

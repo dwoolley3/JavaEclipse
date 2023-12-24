@@ -1,4 +1,4 @@
-package week4;
+package DeVry_CIS355A.week4;
 
 public class InheritanceTest {
 

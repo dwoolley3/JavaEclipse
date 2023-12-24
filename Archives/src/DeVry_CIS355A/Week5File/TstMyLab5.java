@@ -1,4 +1,4 @@
-package Week5File;
+package DeVry_CIS355A.Week5File;
 
 public class TstMyLab5
 
