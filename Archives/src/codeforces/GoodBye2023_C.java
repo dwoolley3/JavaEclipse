@@ -1,15 +1,16 @@
+package codeforces;
 import java.io.*;    //PrintWriter
 import java.math.*;  //BigInteger, BigDecimal
 import java.util.*;  //StringTokenizer, ArrayList
 
 
-public class R917_Div2_B
+public class GoodBye2023_C
 {	
 	FastReader in;
 	PrintWriter out;
 	
 	public static void main(String[] args)  {
-		new R917_Div2_B().run();
+		new GoodBye2023_C().run();
 	}
 	
 	void run()
@@ -25,18 +26,31 @@ public class R917_Div2_B
 		int t = in.nextInt();
 		for (int T = 0; T < t; T++) {
 			int n = in.nextInt();
-			int k = in.nextInt();
-			
-			int[] a = new int[n];
-			for (int i = 0; i < n; i++) 
+		
+			int[] a = new int[n+1];
+			long[] sum = new long[n+1];
+			int[] odd = new int[n+1];
+			for (int i = 1; i <= n; i++) { 
 				a[i] = in.nextInt();
+				sum[i] = sum[i-1] + a[i];
+				odd[i] = odd[i-1] + (a[i]%2);
+			}
 			
-			String st = in.next();
-			
-			StringBuilder sb = new StringBuilder(st + k);
-			sb.append("\r\n");
-			
-			out.println(sb);
+			for (int i = 1; i <= n; i++) {
+				if (i == 1) {
+					out.print(sum[i]);
+				} else if (i == 2) {
+					out.print(" ");
+					out.print((sum[i] / 2) * 2);
+				} else {
+					int rem = (odd[i] / 3);
+					if (odd[i] - rem * 3 == 1) rem++;
+					out.print(" ");
+					out.print(sum[i] - rem);
+				}
+				
+			}		
+			out.println();
 		}
 	}
 
