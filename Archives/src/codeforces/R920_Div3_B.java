@@ -1,15 +1,16 @@
+package codeforces;
 import java.io.*;    //PrintWriter
 import java.math.*;  //BigInteger, BigDecimal
 import java.util.*;  //StringTokenizer, ArrayList
 
 
-public class R917_Div2_C
+public class R920_Div3_B
 {	
 	FastReader in;
 	PrintWriter out;
 	
 	public static void main(String[] args)  {
-		new R917_Div2_C().run();
+		new R920_Div3_B().run();
 	}
 	
 	void run()
@@ -24,19 +25,23 @@ public class R917_Div2_C
 	{
 		int t = in.nextInt();
 		for (int T = 0; T < t; T++) {
-			int n = in.nextInt();
-			int k = in.nextInt();
+			int n = in.nextInt();		
+			String a = in.next();
+			String b = in.next();
+			int a1 = 0,  a0 = 0, dif = 0;
+			for (int i = 0; i < n; i++) {
+				char ca = a.charAt(i);
+				char cb = b.charAt(i);
+				if (ca != cb) {
+					dif++;
+					if (ca == '1') a1++; else a0++;
+				}
+			}
 			
-			int[] a = new int[n];
-			for (int i = 0; i < n; i++) 
-				a[i] = in.nextInt();
-			
-			String st = in.next();
-			
-			StringBuilder sb = new StringBuilder(st + k);
-			sb.append("\r\n");
-			
-			out.println(sb);
+			int min = Math.min(a1, a0);			
+			int swap = min;
+			int ans = (dif - swap);			
+			out.println(ans);
 		}
 	}
 
