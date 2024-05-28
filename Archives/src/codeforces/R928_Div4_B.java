@@ -1,15 +1,16 @@
+package codeforces;
 import java.io.*;    //PrintWriter
 import java.math.*;  //BigInteger, BigDecimal
 import java.util.*;  //StringTokenizer, ArrayList
 
 
-public class R919_Div2_C
+public class R928_Div4_B
 {	
 	FastReader in;
 	PrintWriter out;
 	
 	public static void main(String[] args)  {
-		new R919_Div2_C().run();
+		new R928_Div4_B().run();
 	}
 	
 	void run()
@@ -25,18 +26,32 @@ public class R919_Div2_C
 		int t = in.nextInt();
 		for (int T = 0; T < t; T++) {
 			int n = in.nextInt();
-			int k = in.nextInt();
+			
+			String[] s = new String[n];
+			for (int i = 0; i < n; i++) 
+				s[i] = in.next();
 			
 			int[] a = new int[n];
-			for (int i = 0; i < n; i++) 
-				a[i] = in.nextInt();
+			for (int i = 0; i < n; i++) {
+				for (int j = 0; j < n; j++) {
+					if (s[i].charAt(j) == '1') a[i]++;
+				}
+			}
 			
-			String st = in.next();
+			int len = 0;
+			String ans = "";
+			for (int i = 0; i < n; i++) {
+				if (a[i] > 0) {
+					if (len == 0) {
+						len = a[i];
+					} else {
+						ans = (a[i] == len) ? "SQUARE" : "TRIANGLE";
+						break;
+					}
+				}
+			}
 			
-			StringBuilder sb = new StringBuilder(st + k);
-			sb.append("\r\n");
-			
-			out.println(sb);
+			out.println(ans);
 		}
 	}
 

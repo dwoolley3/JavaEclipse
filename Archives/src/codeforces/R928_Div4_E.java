@@ -1,15 +1,16 @@
+package codeforces;
 import java.io.*;    //PrintWriter
 import java.math.*;  //BigInteger, BigDecimal
 import java.util.*;  //StringTokenizer, ArrayList
 
 
-public class R919_Div2_D
+public class R928_Div4_E
 {	
 	FastReader in;
 	PrintWriter out;
 	
 	public static void main(String[] args)  {
-		new R919_Div2_D().run();
+		new R928_Div4_E().run();
 	}
 	
 	void run()
@@ -27,16 +28,43 @@ public class R919_Div2_D
 			int n = in.nextInt();
 			int k = in.nextInt();
 			
-			int[] a = new int[n];
-			for (int i = 0; i < n; i++) 
-				a[i] = in.nextInt();
-			
-			String st = in.next();
-			
-			StringBuilder sb = new StringBuilder(st + k);
-			sb.append("\r\n");
-			
-			out.println(sb);
+			int mult = 2;
+			int num1 = (n-1) / (mult) + 1;
+			int ans = 0;
+			if (k <= num1) {
+				ans = k * 2 - 1;
+			} else {
+				for (mult = 4; mult < 2000000000; mult *= 2) {
+					k -= num1;
+					num1 = (n-mult/2) / mult + 1;
+					if (k <= num1) {
+						ans = k * mult - mult/2;
+						break;
+					}
+				}
+//				k -= num1;
+//				mult = 4;
+//				int num2 = (n-2) / (mult) + 1;
+//				if (k <= num2) {
+//					ans = k * (mult) - 2;
+//				} else {
+//					k -= num2;
+//					mult = 8;
+//					int num4 = (n-4) / (mult) + 1;
+//					if (k <= num4) {
+//						ans = k * (mult) - 4;
+//					} else {
+//						k -= num4;
+//						mult = 16;
+//						int num16 = (n-16) / (mult) + 1;
+//						if (k <= num16) {
+//							ans = k * (mult) - 8;
+//						}
+//					}
+//				}			
+			}
+					
+			out.println(ans);
 		}
 	}
 
