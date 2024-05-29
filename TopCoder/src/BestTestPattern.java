@@ -1,7 +1,7 @@
 import java.util.*;
-import java.util.regex.*;
-import java.text.*;
-import java.math.*;
+//import java.util.regex.*;
+//import java.text.*;
+//import java.math.*;
 
 
 public class BestTestPattern
@@ -15,8 +15,8 @@ public class BestTestPattern
 			char c = correctAnswers.charAt(i);
 			cnt[c-'A']++;
 			if (cnt[c-'A'] > max) {
-				max = cnt[c-'A'];
 				maxi = c-'A';
+				max = cnt[maxi];
 			}
 		}
 		
